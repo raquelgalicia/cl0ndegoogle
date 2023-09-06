@@ -30,4 +30,4 @@ En este proyecto me enfoqué en construir la clonacion de la interfaz de Google 
 * Aprender a a utilizar las etiquetas estándar de html y ccs 3.
 
 * ## Link a Demo
-* Aqui puedes ver mi proyecto terminado: .[CLONACION DE GOOGLR](https://cl0ndegoogle-six.vercel.app/)
+* Aqui puedes ver mi proyecto terminado:[CLONACION DE GOOGLR](https://cl0ndegoogle-six.vercel.app/)
