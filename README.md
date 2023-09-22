@@ -16,7 +16,7 @@
 ## 2. Que construi
 En este proyecto me enfoqué en construir la clonacion de la interfaz de Google contiene las siguientes secciones:
 
-* **Header:** Sección n que involucra la foto de mi perfil iconos y el menú  con enlaces externos.
+* **Header:** Sección  que involucra la foto de mi perfil iconos y el menú  con enlaces externos.
 
 * **Main:** Sección  del contenedor para los elementos centrales de la página: logo,barra de busqueda, iconos y botones.
   
